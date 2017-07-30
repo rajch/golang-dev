@@ -1,2 +1,2 @@
 # golang-dev
-A docker image for Go development. Includes Vim with vim-go and neocomplete.
+A docker image for Go development. Includes Vim with pathogen, vim-go and neocomplete.
